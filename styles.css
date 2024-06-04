@@ -3,8 +3,9 @@
 td,th{
 	border:1px solid #ccc;
 	border-radius:5px;
-	padding:0.5 rem;
+	padding:8px;
 }
+
 .odd>td{
 	background-color:#f2f2f2;
 }
